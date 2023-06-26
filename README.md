@@ -11,7 +11,9 @@ The diffusion coefficient in the example is a f(T).
 It thus follows, that possibilities with this script are nearly limitless.
 
 Output of first plot:
+
 ![Carburizing+Diffusion_steps1](https://github.com/emefff/Carburizing-in-Python-with-pydiffusion-library/assets/89903493/f0539904-af4b-4a05-b93c-88226c9d82a3)
 
 Output of second plot:
+
 ![Carburizing+Diffusion_steps2](https://github.com/emefff/Carburizing-in-Python-with-pydiffusion-library/assets/89903493/590baf6e-fcc8-4e34-99d8-8ba50178cfad)
