@@ -109,7 +109,7 @@ def main():
     
     Each step takes the resulting profile from the predecessing step as input. 
     In the two carburizing steps we use our own modified version of the 
-    sphSim in the pydisffusion library. It leaves the concentration at the
+    sphSim in the pydiffusion library. It leaves the concentration at the
     surface at a constant value (can be altered to a time-dependent function
     too), just like in real-life carburizing. 
     
