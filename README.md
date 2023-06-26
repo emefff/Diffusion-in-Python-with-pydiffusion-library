@@ -1,7 +1,7 @@
 # Carburizing-in-Python-with-pydiffusion-library
 Simple script for multi-step simulation of a carburizing process
 
-This script is a simple way to simulate a multi-step carburizing process. The pydiffusion library is used, a modifified version of sph_sim is included. Carburizing is a well-known and well 
+This script is a simple way to simulate a multi-step carburizing process. The pydiffusion library is used, a modified version of sph_sim is included. Carburizing is a well-known and well 
 established industrial process. Performed all over the world for applications like gears and shafts, some variations exist. All of these have in common, that elemental carbon is diffused into
 the part at rather high temperatures. The standard methods of the pydiffusion library cannot do that, so we applied a slight modification to the sph_sim method.
 With a simple modification, just one line, we can turn it into a function, that can simulate the carbon source at the surface. This source potential can easily made time dependent etc.
