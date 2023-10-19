@@ -17,3 +17,5 @@ Output of first plot:
 Output of second plot:
 
 ![Carburizing+Diffusion_steps2](https://github.com/emefff/Carburizing-in-Python-with-pydiffusion-library/assets/89903493/590baf6e-fcc8-4e34-99d8-8ba50178cfad)
+
+emefff@gmx.at
