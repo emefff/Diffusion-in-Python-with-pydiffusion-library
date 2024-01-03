@@ -1,4 +1,4 @@
-# Carburizing-in-Python-with-pydiffusion-library
+# 1D-Diffusion-in-Python-with-pydiffusion-library
 Simple script for multi-step simulation of a carburizing process
 
 This script is a simple way to simulate a multi-step carburizing process. The pydiffusion library is used, a modified version of sph_sim is included. Carburizing is a well-known and well 
